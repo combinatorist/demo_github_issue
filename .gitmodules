@@ -1,0 +1,3 @@
+[submodule "sudoqler"]
+	path = sudoqler
+	url = https://github.com/combinatorist/sudoqler.git
